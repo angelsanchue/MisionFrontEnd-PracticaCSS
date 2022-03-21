@@ -1,0 +1,191 @@
+:root{
+    --primary-color : #3858D6;
+}
+
+.text-primary{
+    color: var(--primary-color);
+}
+
+.btn{
+    padding: 4px;
+}
+
+.primaryBlueText {
+    color: var(--primary-color)
+}
+
+.btn-primary {
+    border: var(--primary-color);
+    background-color: var(--primary-color);
+    color: #FAFAFA;
+}
+
+.navbar{
+    min-height: 90px;
+}
+
+.content {
+    max-width: 500px;
+}
+
+.textos-azul{
+    color: #1F3E72;
+}
+
+.titulo-padding-top{
+    padding-top: 80px;
+}
+
+.iconos-amarillo{
+    fill: #FFD012;
+    background-color: #FFD01220;
+    border-radius: 6px;
+}
+
+.iconos-azul{
+    fill: var(--primary-color);
+    background-color:#3858D619;
+    border-radius: 6px;
+}
+
+.margen-icono-derecho{
+    margin-right: 8px;
+}
+
+.svg-style{
+    width:24px;
+    height:24px
+}
+
+.content-mil{
+    
+    max-width: 1000px;
+}
+
+.superponer-pv{
+    position: absolute; 
+    top: 35em; 
+    
+}
+
+.textos-pv{
+    color: #6D7B93;
+}
+
+.fondo-registro-vacuna{
+    background-color:#FAFAFADC;
+    border-radius: 9px;
+    padding: 30px;
+}
+
+.style-btn-enviar{
+    margin-left: 3em;
+    padding-left: 2em;
+    padding-right: 2em;
+    padding-top: .80em;
+    padding-bottom: .80em;
+
+}
+
+.logos-gris{
+    fill: #DDE2FA;
+}
+
+.moderna-stroke{
+    stroke: #DDE2FA;
+}
+
+.alto-dos{
+    height: 340px;
+}
+
+.card-style{
+    width: 15em;
+    height: 17em;
+    border-radius: 8px;
+    border-color: #FAFAFF;
+    border-style:solid;
+    border-width: 4px;
+    padding: 1em;
+    
+}
+
+.iconos-card-style{
+    width: 36px;
+    height:36px;
+    margin-bottom: 25px;
+}
+
+.cuadrado-azul {
+  
+    width: 600px; 
+    height: 700px; 
+    background: #108FE3;
+}
+
+.mb-section{
+    margin-bottom: 120px;
+
+}
+
+.pt-img-preparativos{
+    padding-top: 140px;
+}
+
+.accordion-body{
+    color: #108FE3;
+}
+
+.mb-div{
+    margin-bottom: 65px;
+}
+
+.iconos-card-emergency{
+    height: 36px;
+    width: 36px;
+}
+
+.btn-emergency{
+
+    background-color:#3858D619;
+    
+    padding-left: 2em;
+    padding-right: 2em;
+    padding-top: .80em;
+    padding-bottom: .80em;
+    width: 12em;
+}
+
+.btn-emergency-p{
+
+    background-color:var(--primary-color);
+    
+    padding-left: 2em;
+    padding-right: 2em;
+    padding-top: .80em;
+    padding-bottom: .80em;
+    width: 12em;
+    color: white;
+}
+
+.card-emergency{
+    width: 16.7em;
+    height: 13em;
+    border-radius: 8px;
+    border-color: #FAFAFF;
+    border-style:solid;
+    border-width: 4px;
+    padding: 2em;
+    
+}
+
+.altura-pie{
+    height: 300px;
+    background-color:#3858D619;
+}
+
+.ancho-col-pie{
+    width: 200px;
+    padding-left: 1.5rem;
+}
+
